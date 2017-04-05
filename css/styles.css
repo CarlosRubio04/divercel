@@ -109,6 +109,10 @@ a, button {
     color: #F0A818;
     content: "/\00a0";
 }
+.btn:focus {
+    outline: none !important;
+    outline-offset: none !important;
+}
 .btn-log {
     background-color: #F0A818;
     width: 60%;
@@ -119,6 +123,48 @@ a, button {
 }
 .btn-log:hover {
   background-color: #fff;
+  color: #F0A818;
+}
+.modal-header {
+  background-color: #0C0C24;
+}
+.modal-content {
+  border: 2px solid #0C0C24;
+}
+.modal-body {
+  background-color: #E4E9EE;
+}
+.modal-body > p {
+  color: #181848;
+  font-size: 20px;
+  padding: 5px;
+}
+.modal-body > p > span {
+  color: #304878;
+}
+.tab-pane > p {
+  color: #000;
+  padding: 20px 0;
+}
+.nav-tabs.nav-justified>li>a {
+  border-bottom: none !important;
+  border-radius: none !important;
+  color: #F0A818;
+}
+.nav-tabs>li.active>a {
+  background-color: transparent !important;
+  cursor: pointer;
+  font-weight: 500;
+  border: none !important;
+}
+.link {
+  color: #F0A818;
+  text-decoration: underline;
+}
+.form-control {
+  background-color: #fff;
+  border-radius: 20px;
+  border: 1px solid #F0A818;
   color: #F0A818;
 }
 .serch {
