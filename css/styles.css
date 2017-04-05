@@ -1,0 +1,409 @@
+  /* CARLOS RUBIO STYLES AWESOME
+   ========================================================================= */
+
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i');
+
+@font-face {
+  font-family: 'icons';
+  src: url('../fonts/icons.eot?17186390');
+  src: url('../fonts/icons.eot?17186390#iefix') format('embedded-opentype'),
+       url('../fonts/icons.woff2?17186390') format('woff2'),
+       url('../fonts/icons.woff?17186390') format('woff'),
+       url('../fonts/icons.ttf?17186390') format('truetype'),
+       url('../fonts/icons.svg?17186390#icons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+/* Chrome hack: SVG is rendered more smooth in Windozze. 100% magic, uncomment if you need it. */
+/* Note, that will break hinting! In other OS-es font will be not as sharp as it could be */
+/*
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: 'icons';
+    src: url('../font/icons.svg?17186390#icons') format('svg');
+  }
+}
+*/
+ 
+ [class^="icon-"]:before, [class*=" icon-"]:before {
+  font-family: "icons";
+  font-style: normal;
+  font-weight: normal;
+  speak: none;
+ 
+  display: inline-block;
+  text-decoration: inherit;
+  width: 1em;
+  margin-right: .2em;
+  text-align: center;
+  /* opacity: .8; */
+ 
+  /* For safety - reset parent styles, that can break glyph codes*/
+  font-variant: normal;
+  text-transform: none;
+ 
+  /* fix buttons height, for twitter bootstrap */
+  line-height: 1em;
+ 
+  /* Animation center compensation - margins should be symmetric */
+  /* remove if not needed */
+  margin-left: .2em;
+ 
+  /* you can be more comfortable with increased icons size */
+  /* font-size: 120%; */
+ 
+  /* Font smoothing. That was taken from TWBS */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+ 
+  /* Uncomment for 3D effect */
+  /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
+}
+ 
+.icon-apps:before { content: '\e800'; } /* '' */
+.icon-graffitis:before { content: '\e801'; } /* '' */
+.icon-juegos:before { content: '\e802'; } /* '' */
+.icon-imagenes:before { content: '\e803'; } /* '' */
+.icon-musica:before { content: '\e804'; } /* '' */
+.icon-tonos:before { content: '\e805'; } /* '' */
+.icon-top:before { content: '\e806'; } /* '' */
+
+
+
+/* MAIN STYLES
+   ========================================================================= */
+body {
+    background: #181848;
+    background: -o-linear-gradient(#181848 0%, #000000 100%);
+    background: -webkit-linear-gradient(#181848 0%, #000000 100%);
+    background: linear-gradient(#181848 0%, #000000 100%);   
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#181848', endColorstr='#000000',GradientType=0 );
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+    min-height: 100vh;
+}
+header {
+    background-color: #181848;
+    border-bottom: 1px solid #304878;
+    padding: 5px 0;
+}
+footer {
+    padding-top: 15px;
+    background-color: #1A1A1A;
+    border-top: 1px solid #304878;
+}
+a, button {
+    -webkit-transition: background, color 0.3s linear;
+    -moz-transition: background, color 0.3s linear;
+    -o-transition: background, color 0.3s linear;
+    transition: background, color 0.3s linear;
+}
+.tyc {
+    color: #7890A8;
+}
+.breadcrumb > li > a {
+    color: #F0A818;
+}
+.breadcrumb>li+li:before {
+    padding: 0 5px;
+    color: #F0A818;
+    content: "/\00a0";
+}
+.btn-log {
+    background-color: #F0A818;
+    width: 60%;
+    margin-top: 10px;
+    border-radius: 20px;
+    font-size: 16px;
+    font-weight: 400;
+}
+.btn-log:hover {
+  background-color: #fff;
+  color: #F0A818;
+}
+.serch {
+    background-color: transparent;
+    border-radius: 20px;
+    border: 1px solid #F0A818;
+    color: #F0A818;
+    margin-top: 10px;
+}
+.serch::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+  color: #F0A818;
+}
+.serch::-moz-placeholder { /* Firefox 19+ */
+  color: #F0A818;
+}
+.serch:-ms-input-placeholder { /* IE 10+ */
+  color: #F0A818;
+}
+.serch:-moz-placeholder { /* Firefox 18- */
+  color: #F0A818;
+}
+.logo {
+    max-width: 150px;
+}
+.main {
+    background-image: url(../img/patron.png);
+    min-height: 100vh;
+}
+.breadcrumb {
+    background-color: transparent !important;
+}
+
+/* Home styles
+   ========================================================================= */
+.heading {
+    color: #fff;
+    font-weight: 100;
+}
+.heading span {
+    color: #F0A818;
+}
+.item {
+    background-color: #F0A818;
+    margin-bottom: 20px;
+}
+.item-tittle {
+    text-align: center;
+    font-weight: 400;
+    font-size: 20px;
+}
+.icon {
+    position: relative;
+    background-size: cover;
+    background-position: center;
+    min-height: 200px;
+    -webkit-transition: filter 0.3s linear;
+    -moz-transition: filter 0.3s linear;
+    -o-transition: filter 0.3s linear;
+    transition: filter 0.3s linear;
+}
+.iconMusica {
+    background-image: url(../img/musica.png);
+}
+.iconJuegos{
+    background-image: url(../img/juegos.png);
+}
+.iconApps {
+    background-image: url(../img/apps.png);
+}
+.iconImagenes{
+    background-image: url(../img/imagenes.png);
+}
+.iconTonos{
+    background-image: url(../img/tonos.png);
+}
+.iconImagenes{
+    background-image: url(../img/imagenes.png);
+}
+.iconGraf{
+    background-image: url(../img/graffitis.png);
+}
+.iconTop{
+    background-image: url(../img/top.png);
+}
+.top {
+    left: 11% !important;
+}
+.top i {
+    margin: 0 45px;
+}
+.icon:hover {
+    -webkit-filter: blur(0px);
+    -moz-filter: blur(0px);
+    -o-filter: blur(0px);
+    -ms-filter: blur(0px);
+    filter: blur(0px);
+}
+.icon-link {
+   color: #fff;
+   font-size: 50px;
+   position: absolute;
+   left: 36%;
+   top: 40%;
+   z-index: 999;
+    -webkit-transition: text-shadow 0.2s linear;
+    -moz-transition: text-shadow 0.2s linear;
+    -o-transition: text-shadow 0.2s linear;
+    transition: text-shadow 0.2s linear;
+}
+.icon-link:hover {
+    color: #fff;
+    text-shadow: 5px 5px 1px rgba(255, 255, 255, 0.30);
+}
+.item:hover > .icon {
+    -webkit-filter: blur(2px);
+    -moz-filter: blur(2px);
+    -o-filter: blur(2px);
+    -ms-filter: blur(2px);
+    filter: blur(2px);
+}
+
+/* SIDE BAR STYLES
+   ========================================================================= */
+.filters {
+    margin-top: -10px;
+}
+.Musica {
+    background-image: url(../img/musica.png);
+}
+.Juegos{
+    background-image: url(../img/juegos.png);
+}
+.Apps{
+    background-image: url(../img/apps.png);
+}
+.Tonos{
+    background-image: url(../img/tonos.png);
+}
+.headingSide {
+    background-position: center;
+    background-size: cover;
+    min-height: 100px;
+    padding-top: 20px;
+}
+.headingSide > h2 {
+    text-align: center;
+}
+.panel-default {
+    border-color: transparent;
+}
+.panel-default>.panel-heading {
+    color: #fff;
+    background-color: #7890A8;
+    border: none;
+}
+#headingOne {
+    background-color: #F0A818;
+}
+.panel-heading {
+    border-bottom: none;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    padding: 10px 15px;
+    text-align: center;
+}
+.panel-title > a:hover, .panel-title > a:active {
+    text-decoration: none;
+}
+.panel-group .panel+.panel {
+    margin-top: 0px;
+}
+.panel-group .panel {
+    margin-bottom: 0;
+    border-radius: 0px;
+}
+.panel {
+    margin-bottom: 20px;
+    background-color: #fff;
+    border: none;
+    border-radius: 0px;
+    -webkit-box-shadow: 0 1px 1px rgba(0,0,0,.05);
+    box-shadow: 0 1px 1px rgba(0,0,0,.05);
+}
+.panel-body ul {
+    padding-left: 3px;
+}
+.panel-body > ul > li {
+    list-style: none;
+    padding: 5px 0;
+}
+.panel-body > ul > li > a {
+    color: #7890A8;
+    font-size: 15px;
+}
+.panel-body > ul > li > a:hover {
+    color: #F0A818;
+    text-decoration: none;
+}
+.table-striped>tbody>tr {
+    border: none;
+    background-color: #fff;
+}
+.table-striped>tbody>tr:nth-of-type(odd) { 
+    background-color: #E6EAED; 
+}
+.table-striped>tbody>tr>th>i {
+    color: #F0A818;
+}.table-striped>tbody>tr>th>a>i {
+    color: #F0A818;
+}
+.table-striped>tbody>tr>th {
+    color: #1A1A1A;
+    font-weight: 200;
+}
+.downLoad {
+    text-align: right;
+}
+
+#lightgallery > li {
+  margin-bottom: 10px;
+}
+#lightgallery>li>a>img {
+  border: 2px solid #fff;
+}
+#lightgallery>li>a>i {
+  background-color: #f0a818;
+  border-radius: 25px;
+  color: #fff;
+  opacity: 0;
+  left: 40%;
+  padding: 8px; 
+  position: absolute;
+  top: 44%;
+  -webkit-transition: all 0.3s linear;
+  -moz-transition: all 0.3s linear;
+  -o-transition: all 0.3s linear;
+  transition: all 0.3s linear;
+}
+#lightgallery>li>a:hover i {
+  opacity: 1;
+}
+/* RESPONSIVE
+   ========================================================================= */
+
+
+/* Móviles en horizontal o tablets en vertical
+   ------------------------------------------------------------------------- */
+
+@media (max-width: 768px) {
+  .item {
+    display: block;
+  }
+  .item-tittle {
+    font-size: 16px;
+  }
+  .icon-link {
+    font-size: 40px;
+    left: 35%;
+    top: 35%;
+  }
+  .top i {
+    margin: 0px 15px;
+  }
+  .icon {
+    min-height: 100px;
+  }
+  .btn-log {
+    width: 100%;
+  }
+  .content h2 {
+    text-align: center;
+  }
+  .demo-gallery {
+    padding: 0 15px;
+  }
+}
+
+
+/* Tablets en horizonal y escritorios normales
+   ------------------------------------------------------------------------- */
+
+@media (min-width: 1024px) {}
+
+
+/* Escritorios muy anchos
+   ------------------------------------------------------------------------- */
+
+@media (min-width: 1200px) {}
