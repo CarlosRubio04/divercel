@@ -116,7 +116,7 @@
           <p>Lo más descargado</p>
         </div>
         <a href="?content=descargas" class="icon-link top">
-          <i class="icon-top"></i><i class="icon-top"></i><i class="icon-top"></i>
+          <i class="icon-top"></i>
         </a>
         <div class="icon iconTop"></div>
       </div>
