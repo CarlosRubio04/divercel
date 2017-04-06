@@ -373,8 +373,17 @@ a, button {
 }
 .table-striped>tbody>tr>th>i {
     color: #F0A818;
-}.table-striped>tbody>tr>th>a>i {
+}
+.table-striped>tbody>tr>th>a>i {
     color: #F0A818;
+    -webkit-transition: background, color 0.3s linear;
+    -moz-transition: background, color 0.3s linear;
+    -o-transition: background, color 0.3s linear;
+    transition: background, color 0.3s linear;
+}
+.table-striped>tbody>tr>th>a:hover i {
+    cursor: pointer;
+    color: #181848;
 }
 .table-striped>tbody>tr>th {
     color: #1A1A1A;

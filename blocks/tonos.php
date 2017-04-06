@@ -37,32 +37,32 @@
 			<table class="table table-striped">
 				<tbody> 
 					<tr> 
-						<th><i class="fa fa-play-circle fa-2x" aria-hidden="true"></i></th> 
+						<th><a onclick="this.firstChild.play()"><audio src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Hymne_delphique.ogg"></audio><i class="fa fa-play-circle fa-2x" aria-hidden="true"></i></a></th> 
 						<th><b>1,2,3 Contesta</b></th>
 						<th class="downLoad"><a href="#"><i class="fa fa-download fa-2x" aria-hidden="true"></a></i></th>
 					</tr> 
 					<tr> 
-						<th scope="row"><i class="fa fa-play-circle fa-2x" aria-hidden="true"></i></th>
+						<th scope="row"><a onclick="this.firstChild.play()"><audio src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Hymne_delphique.ogg"></audio><i class="fa fa-play-circle fa-2x" aria-hidden="true"></i></a></th>
 						<th><b>1,2,3 Contesta</b></th>
 						<th class="downLoad"><a href="#"><i class="fa fa-download fa-2x" aria-hidden="true"></a></i></th> 
 					</tr> 
 					<tr> 
-						<th scope="row"><i class="fa fa-play-circle fa-2x" aria-hidden="true"></i></th>
+						<th scope="row"><a onclick="this.firstChild.play()"><audio src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Hymne_delphique.ogg"></audio><i class="fa fa-play-circle fa-2x" aria-hidden="true"></i></a></th>
 						<th><b>1,2,3 Contesta</b></th>
 						<th class="downLoad"><a href="#"><i class="fa fa-download fa-2x" aria-hidden="true"></a></i></th> 
 					</tr> 
 					<tr> 
-						<th scope="row"><i class="fa fa-play-circle fa-2x" aria-hidden="true"></i></th>
+						<th scope="row"><a onclick="this.firstChild.play()"><audio src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Hymne_delphique.ogg"></audio><i class="fa fa-play-circle fa-2x" aria-hidden="true"></i></a></th>
 						<th><b>1,2,3 Contesta</b></th>
 						<th class="downLoad"><a href="#"><i class="fa fa-download fa-2x" aria-hidden="true"></a></i></th> 
 					</tr>
 					<tr> 
-						<th scope="row"><i class="fa fa-play-circle fa-2x" aria-hidden="true"></i></th>
+						<th scope="row"><a onclick="this.firstChild.play()"><audio src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Hymne_delphique.ogg"></audio><i class="fa fa-play-circle fa-2x" aria-hidden="true"></i></a></th>
 						<th><b>1,2,3 Contesta</b></th>
 						<th class="downLoad"><a href="#"><i class="fa fa-download fa-2x" aria-hidden="true"></a></i></th> 
 					</tr> 
 					<tr> 
-						<th scope="row"><i class="fa fa-play-circle fa-2x" aria-hidden="true"></i></th>
+						<th scope="row"><a onclick="this.firstChild.play()"><audio src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Hymne_delphique.ogg"></audio><i class="fa fa-play-circle fa-2x" aria-hidden="true"></i></a></th>
 						<th><b>1,2,3 Contesta</b></th>
 						<th class="downLoad"><a href="#"><i class="fa fa-download fa-2x" aria-hidden="true"></a></i></th> 
 					</tr> 
