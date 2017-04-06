@@ -304,6 +304,9 @@ a, button {
 .Tonos{
     background-image: url(../img/tonos.png);
 }
+.descargas{
+    background-image: url(../img/top.png);
+}
 .headingSide {
     background-position: center;
     background-size: cover;
