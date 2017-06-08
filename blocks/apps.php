@@ -40,32 +40,38 @@
 				<tbody> 
 					<tr> 
 						<th><img src="https://placeholdit.imgix.net/~text?txtsize=7&txt=54%C3%9768&w=54&h=68" alt="Pic" class="img-responsive"></th> 
-						<th><b>Assault Team 3d</b> <br> Descripción del juego, Lorem ipsum dolor sit amet, consectetuer adipiscing.</th>  
+						<th><b>Assault Team 3d</b> <br> Descripción del juego, Lorem ipsum dolor sit amet, consectetuer adipiscing. <br>
+						<b>Disponible para dispositivoz IOS</b></th>  
 						<th class="downLoad"><a href="#"><i class="fa fa-download fa-2x" aria-hidden="true"></a></i></th>
 					</tr> 
 					<tr> 
 						<th scope="row"><img src="https://placeholdit.imgix.net/~text?txtsize=7&txt=54%C3%9768&w=54&h=68" alt="Pic" class="img-responsive"></th>
-						<th><b>Assault Team 3d</b> <br> Descripción del juego, Lorem ipsum dolor sit amet, consectetuer adipiscing.</th>  
+						<th><b>Assault Team 3d</b> <br> Descripción del juego, Lorem ipsum dolor sit amet, consectetuer adipiscing. <br>
+						<b>Disponible para dispositivoz IOS</b></th>  
 						<th class="downLoad"><a href="#"><i class="fa fa-download fa-2x" aria-hidden="true"></a></i></th> 
 					</tr> 
 					<tr> 
 						<th scope="row"><img src="https://placeholdit.imgix.net/~text?txtsize=7&txt=54%C3%9768&w=54&h=68" alt="Pic" class="img-responsive"></th>
-						<th><b>Assault Team 3d</b> <br> Descripción del juego, Lorem ipsum dolor sit amet, consectetuer adipiscing.</th>  
+						<th><b>Assault Team 3d</b> <br> Descripción del juego, Lorem ipsum dolor sit amet, consectetuer adipiscing. <br>
+						<b>Disponible para dispositivoz IOS</b></th>  
 						<th class="downLoad"><a href="#"><i class="fa fa-download fa-2x" aria-hidden="true"></a></i></th> 
 					</tr> 
 					<tr> 
 						<th scope="row"><img src="https://placeholdit.imgix.net/~text?txtsize=7&txt=54%C3%9768&w=54&h=68" alt="Pic" class="img-responsive"></th>
-						<th><b>Assault Team 3d</b> <br> Descripción del juego, Lorem ipsum dolor sit amet, consectetuer adipiscing.</th>  
+						<th><b>Assault Team 3d</b> <br> Descripción del juego, Lorem ipsum dolor sit amet, consectetuer adipiscing. <br>
+						<b>Disponible para dispositivoz IOS</b></th>  
 						<th class="downLoad"><a href="#"><i class="fa fa-download fa-2x" aria-hidden="true"></a></i></th> 
 					</tr>
 					<tr> 
 						<th scope="row"><img src="https://placeholdit.imgix.net/~text?txtsize=7&txt=54%C3%9768&w=54&h=68" alt="Pic" class="img-responsive"></th>
-						<th><b>Assault Team 3d</b> <br> Descripción del juego, Lorem ipsum dolor sit amet, consectetuer adipiscing.</th>  
+						<th><b>Assault Team 3d</b> <br> Descripción del juego, Lorem ipsum dolor sit amet, consectetuer adipiscing. <br>
+						<b>Disponible para dispositivoz IOS</b></th>  
 						<th class="downLoad"><a href="#"><i class="fa fa-download fa-2x" aria-hidden="true"></a></i></th> 
 					</tr> 
 					<tr> 
 						<th scope="row"><img src="https://placeholdit.imgix.net/~text?txtsize=7&txt=54%C3%9768&w=54&h=68" alt="Pic" class="img-responsive"></th>
-						<th><b>Assault Team 3d</b> <br> Descripción del juego, Lorem ipsum dolor sit amet, consectetuer adipiscing.</th>  
+						<th><b>Assault Team 3d</b> <br> Descripción del juego, Lorem ipsum dolor sit amet, consectetuer adipiscing. <br>
+						<b>Disponible para dispositivoz IOS</b></th>  
 						<th class="downLoad"><a href="#"><i class="fa fa-download fa-2x" aria-hidden="true"></a></i></th> 
 					</tr> 
 				</tbody> 

@@ -63,7 +63,7 @@
     <div class="col-md-3 col-sm-6 col-xs-6">
       <div class="item">
         <div class="item-tittle">
-          <p>Juegos</p>
+          <p>Juegos Bakno</p>
         </div>
         <a href="?content=juegos" class="icon-link"><i class="icon-juegos"></i></a>
         <div class="icon iconJuegos"></div>
@@ -83,7 +83,7 @@
     <div class="col-md-3 col-sm-6 col-xs-6">
       <div class="item">
         <div class="item-tittle">
-          <p>Imágenes</p>
+          <p>Amor es...</p>
         </div>
         <a href="?content=imagenes" class="icon-link"><i class="icon-imagenes"></i></a>
         <div class="icon iconImagenes"></div>
@@ -93,7 +93,7 @@
     <div class="col-md-3 col-sm-6 col-xs-6">
       <div class="item">
         <div class="item-tittle">
-          <p>Tonos</p>
+          <p>Mystico</p>
         </div>
         <a href="?content=tonos" class="icon-link"><i class="icon-tonos"></i></a>
         <div class="icon iconTonos"></div>
@@ -103,7 +103,7 @@
     <div class="col-md-3 col-sm-6 col-xs-6">
       <div class="item">
         <div class="item-tittle">
-          <p>Graffitis</p>
+          <p>Arte Urbano</p>
         </div>
         <a href="?content=graffitis" class="icon-link"><i class="icon-graffitis"></i></a>
         <div class="icon iconGraf"></div>
