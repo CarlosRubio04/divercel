@@ -29,6 +29,26 @@
 								</div>
 							</div>
 						</div>
+						<div class="panel">
+							<div class="panel-heading" role="tab" id="headingOne">
+								<h4 class="panel-title">
+									<a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+										Juegos por género  <i class="fa fa-angle-down" aria-hidden="true"></i>
+									</a>
+								</h4>
+							</div>
+							<div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
+								<div class="panel-body">
+									<ul>
+										<li><a href="#">Acción</a></li>
+										<li><a href="#">Aventura</a></li>
+										<li><a href="#">Carreras</a></li>
+										<li><a href="#">Deportes</a></li>
+										<li><a href="#">Estrategia</a></li>
+									</ul>
+								</div>
+							</div>
+						</div>
 					</div>
 				</div>
 			</div>

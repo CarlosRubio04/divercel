@@ -7,11 +7,11 @@
 			<div class="col-md-12 text-center">
 				<ol class="breadcrumb">
 					<li><a href="?content=musica">Música</a></li>
-					<li><a href="?content=juegos">Juegos</a></li>
-					<li><a href="?content=apps">Apps</a></li>
-					<li><a href="?content=imagenes">Imágenes</a></li>
-					<li><a href="?content=tonos">Tonos</a></li>
-					<li><a href="?content=graffitis">Graffitis</a></li>
+					<li><a href="?content=juegos">Juegos Bakno</a></li>
+					<li><a href="?content=apps">Apps y Juegos</a></li>
+					<li><a href="?content=imagenes">Amor es...</a></li>
+					<li><a href="?content=tonos">Mystico</a></li>
+					<li><a href="?content=graffitis">Arte Urbano</a></li>
 					<li><a href="?content=top">Top</a></li>
 				</ol>
 			</div>
