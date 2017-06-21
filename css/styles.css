@@ -196,6 +196,63 @@ a, button {
   background-color: transparent !important;
 }
 
+
+/*Menu mobil*/
+.botonMobil {
+  background: transparent;
+  border: 0;
+  outline: 0;
+  position: absolute;
+  right: 20px;
+  top: 60px;
+  z-index: 999999;
+  display: none;
+  transition: all .7s ease-in-out;
+}
+.icon-close:before {
+  font: normal normal normal 14px/1 FontAwesome;
+  content: "\f00d";
+  font-size: 30px;
+}
+.mobilMenu {
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+  top: 0;
+  left: -100vw;
+  background-color: rgba(24,24,72,0.95);
+  z-index: 99999;
+}
+.mobilMenu:hover{
+  border: 0;
+  outline: 0px;
+  color: #F0A818;
+}
+.mobilMenu.active {
+  left: 0;
+  transition: all .7s ease-in-out;
+}
+.mobilMenu ul {
+  height: 100%;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 0;
+}
+.mobilMenu ul li {
+  display: block;
+  padding: 7px 20px;
+}
+.mobilMenu ul li a {
+  color: #fff;
+  font-size: 20px;
+  font-weight: 300;
+}
+.mobilMenu ul li a i {
+  margin-right: 15px;
+  font-size: 25px;
+}
 /* Home styles
 ========================================================================= */
 .heading {
@@ -426,6 +483,9 @@ a, button {
 ------------------------------------------------------------------------- */
 
 @media (max-width: 768px) {
+  h1 {
+    font-size: 27px;
+  }
   .item {
     display: block;
   }
@@ -435,6 +495,9 @@ a, button {
   .icon {
     min-height: 100px;
   }
+  .icon-link {
+    font-size: 30px;
+  }
   .btn-log {
     width: 100%;
   }
@@ -443,6 +506,9 @@ a, button {
   }
   .demo-gallery {
     padding: 0 15px;
+  }
+  .botonMobil {
+    display: block;
   }
 }
 

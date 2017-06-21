@@ -4,9 +4,9 @@
 			<div class="col-md-4">
 				<button type="button" class="btn btn-log" data-toggle="modal" data-target="#logIn">Ingresar</button>
 			</div>
-			<div class="col-md-4">
+			<div class="col-md-4 ">
 				<a href="index.php">
-					<img data-src="img/logo.png" alt="Divercel" class="img-responsive center-block logo">
+					<img data-src="img/logo.png" alt="Divercel" class="logo img-responsive center-block">
 				</a>
 			</div>
 			<div class="col-md-4">
@@ -14,7 +14,20 @@
 			</div>
 		</div>
 	</div>
+	<button class="botonMobil fa fa-bars fa-2x" id="burguer-button"></button>
 </header>
+
+<nav class="mobilMenu" id="menu">
+	<ul>
+		<li><a href="?content=musica"><i class="icon-musica"></i>Música </a></li>
+		<li><a href="?content=juegos"><i class="icon-games"></i>Juegos Bakno </a></li>
+		<li><a href="?content=apps"><i class="icon-apps"></i>Apps y Juegos </a></li>
+		<li><a href="?content=imagenes"><i class="icon-imagenes"></i>Amor es... </a></li>
+		<li><a href="?content=tonos"><i class="icon-mistico"></i>Mystico </a></li>
+		<li><a href="?content=graffitis"><i class="icon-urbano"></i>Arte Urbano </a></li>
+		<li><a href="?content=descargas"><i class="icon-top"></i>Lo más descargado </a></li>
+	</ul>
+</nav>
 
 <!-- Modal -->
 <div class="modal fade" id="logIn" tabindex="-1" role="dialog" aria-labelledby="logInLabel">
@@ -22,7 +35,7 @@
 		<div class="modal-content">
 			<div class="modal-header">
 				<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-				<img data-src="img/logo.png" alt="Divercel" class="img-responsive center-block logo">
+				<img src="img/logo.png" alt="Divercel" class="img-responsive center-block logo">
 			</div>
 			<div class="modal-body">
 				<p class="text-center">
@@ -51,7 +64,7 @@
 		<div class="modal-content">
 			<div class="modal-header">
 				<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-				<img data-src="img/logo.png" alt="Divercel" class="img-responsive center-block logo">
+				<img src="img/logo.png" alt="Divercel" class="img-responsive center-block logo">
 			</div>
 			<div class="modal-body">
 				<p class="text-center">
