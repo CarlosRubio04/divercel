@@ -6,7 +6,7 @@
 			</div>
 			<div class="col-md-4">
 				<a href="index.php">
-					<img src="img/logo.png" alt="Divercel" class="img-responsive center-block logo">
+					<img data-src="img/logo.png" alt="Divercel" class="img-responsive center-block logo">
 				</a>
 			</div>
 			<div class="col-md-4">
@@ -22,7 +22,7 @@
 		<div class="modal-content">
 			<div class="modal-header">
 				<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-				<img src="img/logo.png" alt="Divercel" class="img-responsive center-block logo">
+				<img data-src="img/logo.png" alt="Divercel" class="img-responsive center-block logo">
 			</div>
 			<div class="modal-body">
 				<p class="text-center">
@@ -51,7 +51,7 @@
 		<div class="modal-content">
 			<div class="modal-header">
 				<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-				<img src="img/logo.png" alt="Divercel" class="img-responsive center-block logo">
+				<img data-src="img/logo.png" alt="Divercel" class="img-responsive center-block logo">
 			</div>
 			<div class="modal-body">
 				<p class="text-center">
@@ -85,7 +85,7 @@
 		<div class="modal-content">
 			<div class="modal-header">
 				<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-				<img src="img/logo.png" alt="Divercel" class="img-responsive center-block logo">
+				<img data-src="img/logo.png" alt="Divercel" class="img-responsive center-block logo">
 			</div>
 			<div class="modal-body">
 				<div>

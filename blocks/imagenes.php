@@ -45,50 +45,68 @@
 						<li class="col-xs-6 col-sm-6 col-md-3" data-src="http://placehold.it/1200x800" data-sub-html="<h4>Titulo de la foto</h4>">
 							<a href="">
 								<i class="fa fa-search fa-2x" aria-hidden="true"></i>
-								<img class="img-responsive img-rounded center-block" src="http://placehold.it/500x450">
+								<img class="img-responsive img-rounded center-block" data-src="http://placehold.it/500x450">
 							</a>
 						</li>
 						<li class="col-xs-6 col-sm-6 col-md-3" data-src="http://placehold.it/1200x800" data-sub-html="<h4>Titulo de la foto</h4>">
 							<a href="">
 							<i class="fa fa-search fa-2x" aria-hidden="true"></i>	
-								<img class="img-responsive img-rounded" src="http://placehold.it/500x450">
+								<img class="img-responsive img-rounded center-block" data-src="http://placehold.it/500x450">
 							</a>
 						</li>
 						<li class="col-xs-6 col-sm-6 col-md-3" data-src="http://placehold.it/1200x800" data-sub-html="<h4>Titulo de la foto</h4>">
 							<a href="">
 								<i class="fa fa-search fa-2x" aria-hidden="true"></i>
-								<img class="img-responsive img-rounded center-block" src="http://placehold.it/500x450">
+								<img class="img-responsive img-rounded center-block" data-src="http://placehold.it/500x450">
 							</a>
 						</li>
 						<li class="col-xs-6 col-sm-6 col-md-3" data-src="http://placehold.it/1200x800" data-sub-html="<h4>Titulo de la foto</h4>">
 							<a href="">
 								<i class="fa fa-search fa-2x" aria-hidden="true"></i>
-								<img class="img-responsive img-rounded center-block" src="http://placehold.it/500x450">
+								<img class="img-responsive img-rounded center-block" data-src="http://placehold.it/500x450">
 							</a>
 						</li>
 
 						<li class="col-xs-6 col-sm-6 col-md-3" data-src="http://placehold.it/1200x800" data-sub-html="<h4>Titulo de la foto</h4>">
 							<a href="">
 								<i class="fa fa-search fa-2x" aria-hidden="true"></i>
-								<img class="img-responsive img-rounded center-block" src="http://placehold.it/500x450">
+								<img class="img-responsive img-rounded center-block" data-src="http://placehold.it/500x450">
 							</a>
 						</li>
 						<li class="col-xs-6 col-sm-6 col-md-3" data-src="http://placehold.it/1200x800" data-sub-html="<h4>Titulo de la foto</h4>">
 							<a href="">
 							<i class="fa fa-search fa-2x" aria-hidden="true"></i>	
-								<img class="img-responsive img-rounded" src="http://placehold.it/500x450">
+								<img class="img-responsive img-rounded center-block" data-src="http://placehold.it/500x450">
 							</a>
 						</li>
 						<li class="col-xs-6 col-sm-6 col-md-3" data-src="http://placehold.it/1200x800" data-sub-html="<h4>Titulo de la foto</h4>">
 							<a href="">
 								<i class="fa fa-search fa-2x" aria-hidden="true"></i>
-								<img class="img-responsive img-rounded center-block" src="http://placehold.it/500x450">
+								<img class="img-responsive img-rounded center-block" data-src="http://placehold.it/500x450">
 							</a>
 						</li>
 						<li class="col-xs-6 col-sm-6 col-md-3" data-src="http://placehold.it/1200x800" data-sub-html="<h4>Titulo de la foto</h4>">
 							<a href="">
 								<i class="fa fa-search fa-2x" aria-hidden="true"></i>
-								<img class="img-responsive img-rounded center-block" src="http://placehold.it/500x450">
+								<img class="img-responsive img-rounded center-block" data-src="http://placehold.it/500x450">
+							</a>
+						</li>
+						<li class="col-xs-6 col-sm-6 col-md-3" data-src="http://placehold.it/1200x800" data-sub-html="<h4>Titulo de la foto</h4>">
+							<a href="">
+								<i class="fa fa-search fa-2x" aria-hidden="true"></i>
+								<img class="img-responsive img-rounded center-block" data-src="http://placehold.it/500x450">
+							</a>
+						</li>
+						<li class="col-xs-6 col-sm-6 col-md-3" data-src="http://placehold.it/1200x800" data-sub-html="<h4>Titulo de la foto</h4>">
+							<a href="">
+								<i class="fa fa-search fa-2x" aria-hidden="true"></i>
+								<img class="img-responsive img-rounded center-block" data-src="http://placehold.it/500x450">
+							</a>
+						</li>
+						<li class="col-xs-6 col-sm-6 col-md-3" data-src="http://placehold.it/1200x800" data-sub-html="<h4>Titulo de la foto</h4>">
+							<a href="">
+								<i class="fa fa-search fa-2x" aria-hidden="true"></i>
+								<img class="img-responsive img-rounded center-block" data-src="http://placehold.it/500x450">
 							</a>
 						</li>
 					</ul>

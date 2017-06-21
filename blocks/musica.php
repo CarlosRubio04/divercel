@@ -60,42 +60,42 @@
 				<tbody> 
 					<tr> 
 						<th><a onclick="this.firstChild.play()"><audio src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Hymne_delphique.ogg"></audio><i class="fa fa-play-circle fa-2x" aria-hidden="true"></i></a></th> 
-						<th><img src="http://placehold.it/60x60" alt="" class="img-responsive"></th>
+						<th><img data-src="http://placehold.it/60x60" alt="" class="img-responsive"></th>
 						<th><b>La Bicicleta</b></th> 
 						<th>Carlos Vives ft. Shakira</th> 
 						<th class="downLoad"><a href="#"><i class="fa fa-download fa-2x" aria-hidden="true"></a></i></th>
 					</tr> 
 					<tr> 
 						<th scope="row"><a onclick="this.firstChild.play()"><audio src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Hymne_delphique.ogg"></audio><i class="fa fa-play-circle fa-2x" aria-hidden="true"></i></a></th>
-						<th><img src="http://placehold.it/60x60" alt="" class="img-responsive"></th>
+						<th><img data-src="http://placehold.it/60x60" alt="" class="img-responsive"></th>
 						<th><b>La Bicicleta</b></th> 
 						<th>Carlos Vives ft. Shakira</th> 
 						<th class="downLoad"><a href="#"><i class="fa fa-download fa-2x" aria-hidden="true"></a></i></th> 
 					</tr> 
 					<tr> 
 						<th scope="row"><a onclick="this.firstChild.play()"><audio src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Hymne_delphique.ogg"></audio><i class="fa fa-play-circle fa-2x" aria-hidden="true"></i></a></th>
-						<th><img src="http://placehold.it/60x60" alt="" class="img-responsive"></th>
+						<th><img data-src="http://placehold.it/60x60" alt="" class="img-responsive"></th>
 						<th><b>La Bicicleta</b></th> 
 						<th>Carlos Vives ft. Shakira</th> 
 						<th class="downLoad"><a href="#"><i class="fa fa-download fa-2x" aria-hidden="true"></a></i></th> 
 					</tr> 
 					<tr> 
 						<th scope="row"><a onclick="this.firstChild.play()"><audio src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Hymne_delphique.ogg"></audio><i class="fa fa-play-circle fa-2x" aria-hidden="true"></i></a></th>
-						<th><img src="http://placehold.it/60x60" alt="" class="img-responsive"></th>
+						<th><img data-src="http://placehold.it/60x60" alt="" class="img-responsive"></th>
 						<th><b>La Bicicleta</b></th> 
 						<th>Carlos Vives ft. Shakira</th> 
 						<th class="downLoad"><a href="#"><i class="fa fa-download fa-2x" aria-hidden="true"></a></i></th> 
 					</tr>
 					<tr> 
 						<th scope="row"><a onclick="this.firstChild.play()"><audio src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Hymne_delphique.ogg"></audio><i class="fa fa-play-circle fa-2x" aria-hidden="true"></i></a></th>
-						<th><img src="http://placehold.it/60x60" alt="" class="img-responsive"></th>
+						<th><img data-src="http://placehold.it/60x60" alt="" class="img-responsive"></th>
 						<th><b>La Bicicleta</b></th> 
 						<th>Carlos Vives ft. Shakira</th> 
 						<th class="downLoad"><a href="#"><i class="fa fa-download fa-2x" aria-hidden="true"></a></i></th> 
 					</tr> 
 					<tr> 
 						<th scope="row"><a onclick="this.firstChild.play()"><audio src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Hymne_delphique.ogg"></audio><i class="fa fa-play-circle fa-2x" aria-hidden="true"></i></a></th>
-						<th><img src="http://placehold.it/60x60" alt="" class="img-responsive"></th>
+						<th><img data-src="http://placehold.it/60x60" alt="" class="img-responsive"></th>
 						<th><b>La Bicicleta</b></th> 
 						<th>Carlos Vives ft. Shakira</th> 
 						<th class="downLoad"><a href="#"><i class="fa fa-download fa-2x" aria-hidden="true"></a></i></th> 
