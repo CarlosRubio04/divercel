@@ -5,12 +5,12 @@
 
 @font-face {
   font-family: 'icons';
-  src: url('../fonts/icons.eot?17186390');
-  src: url('../fonts/icons.eot?17186390#iefix') format('embedded-opentype'),
-  url('../fonts/icons.woff2?17186390') format('woff2'),
-  url('../fonts/icons.woff?17186390') format('woff'),
-  url('../fonts/icons.ttf?17186390') format('truetype'),
-  url('../fonts/icons.svg?17186390#icons') format('svg');
+  src: url('../fonts/icons.eot?23886591');
+  src: url('../fonts/icons.eot?23886591#iefix') format('embedded-opentype'),
+  url('../fonts/icons.woff2?23886591') format('woff2'),
+  url('../fonts/icons.woff?23886591') format('woff'),
+  url('../fonts/icons.ttf?23886591') format('truetype'),
+  url('../fonts/icons.svg?23886591#icons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -20,7 +20,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'icons';
-    src: url('../font/icons.svg?17186390#icons') format('svg');
+    src: url('../font/icons.svg?23886591#icons') format('svg');
   }
 }
 */
@@ -60,15 +60,14 @@
   /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
 }
 
-.icon-apps:before { content: '\e800'; } /* '' */
-.icon-graffitis:before { content: '\e801'; } /* '' */
-.icon-juegos:before { content: '\e802'; } /* '' */
-.icon-imagenes:before { content: '\e803'; } /* '' */
-.icon-musica:before { content: '\e804'; } /* '' */
-.icon-tonos:before { content: '\e805'; } /* '' */
-.icon-top:before { content: '\e806'; } /* '' */
-
-
+.icon-apps:before { content: '\e810'; } /* '' */
+.icon-games:before { content: '\e811'; } /* '' */
+.icon-imagenes:before { content: '\e812'; } /* '' */
+.icon-mistico:before { content: '\e813'; } /* '' */
+.icon-musica:before { content: '\e814'; } /* '' */
+.icon-tonos:before { content: '\e815'; } /* '' */
+.icon-top:before { content: '\e816'; } /* '' */
+.icon-urbano:before { content: '\e817'; } /* '' */
 
 /* MAIN STYLES
 ========================================================================= */
@@ -209,6 +208,7 @@ a, button {
 .item {
   background-color: #F0A818;
   margin-bottom: 20px;
+  position: relative;
 }
 .item-tittle {
   text-align: center;
@@ -242,7 +242,7 @@ a, button {
   background-image: url(../img/mistico.png);
 }
 .iconImagenes{
-  background-image: url(../img/imagenes.png);
+  background-image: url(../img/amor.png);
 }
 .iconGraf{
   background-image: url(../img/graffitis.png);
@@ -267,7 +267,9 @@ a, button {
  color: #fff;
  font-size: 50px;
  position: absolute;
- left: 36%;
+ display: block;
+ text-align: center;
+ width: 100%;
  top: 40%;
  z-index: 999;
  -webkit-transition: text-shadow 0.2s linear;
@@ -429,14 +431,6 @@ a, button {
   }
   .item-tittle {
     font-size: 16px;
-  }
-  .icon-link {
-    font-size: 40px;
-    left: 35%;
-    top: 35%;
-  }
-  .top i {
-    margin: 0px 15px;
   }
   .icon {
     min-height: 100px;

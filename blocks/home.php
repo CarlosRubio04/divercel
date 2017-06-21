@@ -65,7 +65,7 @@
         <div class="item-tittle">
           <p>Juegos Bakno</p>
         </div>
-        <a href="?content=juegos" class="icon-link"><i class="icon-juegos"></i></a>
+        <a href="?content=juegos" class="icon-link"><i class="icon-games"></i></a>
         <div class="icon iconJuegos"></div>
       </div>
     </div>
@@ -95,7 +95,7 @@
         <div class="item-tittle">
           <p>Mystico</p>
         </div>
-        <a href="?content=tonos" class="icon-link"><i class="icon-tonos"></i></a>
+        <a href="?content=tonos" class="icon-link"><i class="icon-mistico"></i></a>
         <div class="icon iconTonos"></div>
       </div>
     </div>
@@ -105,7 +105,7 @@
         <div class="item-tittle">
           <p>Arte Urbano</p>
         </div>
-        <a href="?content=graffitis" class="icon-link"><i class="icon-graffitis"></i></a>
+        <a href="?content=graffitis" class="icon-link"><i class="icon-urbano"></i></a>
         <div class="icon iconGraf"></div>
       </div>
     </div>
@@ -115,7 +115,7 @@
         <div class="item-tittle">
           <p>Lo más descargado</p>
         </div>
-        <a href="?content=descargas" class="icon-link top">
+        <a href="?content=descargas" class="icon-link">
           <i class="icon-top"></i>
         </a>
         <div class="icon iconTop"></div>
