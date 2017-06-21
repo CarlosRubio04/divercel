@@ -196,7 +196,9 @@ a, button {
   background-color: transparent !important;
 }
 
-
+.carousel-indicators {
+  z-index: 2 !important;
+}
 /*Menu mobil*/
 .botonMobil {
   background: transparent;
@@ -205,7 +207,7 @@ a, button {
   position: absolute;
   right: 20px;
   top: 60px;
-  z-index: 999999;
+  z-index: 4;
   display: none;
   transition: all .7s ease-in-out;
 }
@@ -221,7 +223,8 @@ a, button {
   top: 0;
   left: -100vw;
   background-color: rgba(24,24,72,0.95);
-  z-index: 99999;
+  z-index: 3;
+  transition: all .7s ease-in-out;
 }
 .mobilMenu:hover{
   border: 0;
@@ -328,7 +331,7 @@ a, button {
  text-align: center;
  width: 100%;
  top: 40%;
- z-index: 999;
+ z-index: 2;
  -webkit-transition: text-shadow 0.2s linear;
  -moz-transition: text-shadow 0.2s linear;
  -o-transition: text-shadow 0.2s linear;
@@ -475,6 +478,11 @@ a, button {
 #lightgallery>li>a:hover i {
   opacity: 1;
 }
+th .img-responsive {
+    min-height: 60px;
+    min-width: 60px;
+    margin: 0 auto;
+  }
 /* RESPONSIVE
 ========================================================================= */
 
@@ -509,6 +517,11 @@ a, button {
   }
   .botonMobil {
     display: block;
+  }
+  th {
+    display: block;
+    text-align: center;
+    border-top: 0!important;
   }
 }
 
