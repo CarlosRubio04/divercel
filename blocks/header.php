@@ -23,7 +23,7 @@
 		<li><a href="?content=juegos"><i class="icon-games"></i>Juegos Bakno </a></li>
 		<li><a href="?content=apps"><i class="icon-apps"></i>Apps y Juegos </a></li>
 		<li><a href="?content=imagenes"><i class="icon-imagenes"></i>Amor es... </a></li>
-		<li><a href="?content=tonos"><i class="icon-mistico"></i>Mystico </a></li>
+		<li><a href="http://www.divercel.com/wap/portal/mystico/"><i class="icon-mistico"></i>Mystico </a></li>
 		<li><a href="?content=graffitis"><i class="icon-urbano"></i>Arte Urbano </a></li>
 		<li><a href="?content=descargas"><i class="icon-top"></i>Lo más descargado </a></li>
 	</ul>

@@ -483,6 +483,13 @@ th .img-responsive {
     min-width: 60px;
     margin: 0 auto;
   }
+.downLoad {
+  text-align: right;
+  
+}
+.fa-download {
+  color: #7890A8 !important;
+}
 /* RESPONSIVE
 ========================================================================= */
 

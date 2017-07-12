@@ -95,7 +95,7 @@
         <div class="item-tittle">
           <p>Mystico</p>
         </div>
-        <a href="?content=tonos" class="icon-link"><i class="icon-mistico"></i></a>
+        <a href="http://www.divercel.com/wap/portal/mystico/" class="icon-link"><i class="icon-mistico"></i></a>
         <div class="icon iconTonos"></div>
       </div>
     </div>

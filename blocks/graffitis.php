@@ -5,7 +5,7 @@
 		<div class="col-md-4">
 			<div class="sideBar">
 				<div class="headingSide Tonos">
-					<h2><i class="icon-graffitis"></i> Graffitis</h2>
+					<h2><i class="icon-graffitis"></i> Arte Urbano</h2>
 				</div>
 				<div class="filters">
 					<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
@@ -34,7 +34,7 @@
 		<!-- Content Start -->
 		<div class="col-md-8 content">
 			<div class="row">
-				<h2>Graffitis románticos</h2>
+				<h2>Arte Urbano</h2>
 				
 				<div class="demo-gallery">
 					<ul id="lightgallery" class="list-unstyled row">

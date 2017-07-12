@@ -5,7 +5,7 @@
 		<div class="col-md-4">
 			<div class="sideBar">
 				<div class="headingSide Juegos">
-					<h2><i class="icon-juegos"></i> Juegos Bakno</h2>
+					<h2><i class="icon-juegos"></i> Juegos</h2>
 				</div>
 				<div class="filters">
 					<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
@@ -35,16 +35,15 @@
 		</div>
 		<!-- Content Start -->
 		<div class="col-md-8 content">
-			<h2>Juegos de Acción</h2>
-			<table class="table table-striped">
-				<tbody> 
-					<tr> 
-						<th><img data-src="https://placeholdit.imgix.net/~text?txtsize=7&txt=54%C3%9768&w=54&h=68" alt="Pic" class="img-responsive"></th> 
-						<th><a href="?content=detail">Assault Team 3d</a><b></b> <br> Descripción del juego, Lorem ipsum dolor sit amet, consectetuer adipiscing.</th>  
-						<th class="downLoad"><a href="#"><i class="fa fa-download fa-2x" aria-hidden="true"></a></i></th>
-					</tr> 
-				</tbody> 
-			</table>
+			<div class="row">
+				<div class="col-md-4">
+					<img src="http://placehold.it/400x400" alt="Thumbnail" class="img-responsive">
+				</div>
+				<div class="col-md-8">
+					<h2>Nombre del Juego</h2>
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas repellendus reiciendis necessitatibus suscipit, dolore aperiam sint, nihil, tempora esse cum porro dolores soluta, voluptates accusamus id odit officia modi mollitia!Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea velit architecto, ad, ab ut vel veniam facilis, unde natus vitae consectetur, similique mollitia modi pariatur ipsa. Aliquid nam inventore, numquam!</p>
+				</div>
+			</div>
 		</div>
 	</div>
 </div>

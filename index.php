@@ -20,6 +20,8 @@
       require_once('blocks/graffitis.php');
     }elseif($_REQUEST['content']=='descargas'){
       require_once('blocks/descargas.php');
+    }elseif($_REQUEST['content']=='detail'){
+      require_once('blocks/detail.php');
     }else{
       require_once('blocks/home.php');
     } 
